@@ -1,0 +1,4 @@
+interface:
+  display_name: "训练性能分析"
+  short_description: "分析 Nsight 训练报告，定位 CPU/GPU 瓶颈并验证优化效果"
+  default_prompt: "使用 $nsight-training-profile 分析我的训练性能，检查 CPU/GPU 等待、传输和同步问题，并给出有证据的优化与验证步骤。"

@@ -1,0 +1,3 @@
+# Install into an isolated analysis environment, not the training environment.
+# NVIDIA Nsight Systems must be installed separately.
+nsys-ai==0.3.0
